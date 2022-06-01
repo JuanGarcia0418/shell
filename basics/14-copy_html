@@ -1,2 +1,2 @@
-¡#! /bin/bash
+¡#/bin/bash
 cp -nu *.html..
