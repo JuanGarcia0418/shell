@@ -1,1 +1,1 @@
-Comands
+here is a project, to know the shell commands
