@@ -1,2 +1,2 @@
-$ wc -l 0-current_working_directory
 #!/bin/bash
+full_path=$(realpath)
