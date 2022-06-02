@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod 034 hello
