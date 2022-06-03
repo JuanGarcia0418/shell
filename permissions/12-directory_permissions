@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir 751 dir_permissions
+mkdir -m 751 my_dir
