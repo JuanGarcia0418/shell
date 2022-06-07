@@ -1,0 +1,23 @@
+total 52
+drwxr-xr-x 2 root root 4096 Jun  6 22:15 .
+drwxr-xr-x 6 root root  121 Jun  6 20:45 ..
+-rwxr--r-- 1 root root   32 Jun  6 20:58 0-hello_world
+-rw-r--r-- 1 root root    0 Jun  6 20:45 0-hello_world~
+-rwxr--r-- 1 root root   28 Jun  6 21:10 1-confused_smiley
+-rwxr--r-- 1 root root   24 Jun  6 21:03 1-confused_smiley~
+-rwxr--r-- 1 root root   28 Jun  6 21:14 2-hellofile
+-rw-r--r-- 1 root root    0 Jun  6 21:12 2-hellofile~
+-rwxr--r-- 1 root root   39 Jun  6 21:17 3-twofiles
+-rw-r--r-- 1 root root    0 Jun  6 21:16 3-twofiles~
+-rwxr--r-- 1 root root   33 Jun  6 21:23 4-lastlines
+-rw-r--r-- 1 root root    0 Jun  6 21:21 4-lastlines~
+-rwxr--r-- 1 root root   33 Jun  6 21:25 5-firstlines
+-rw-r--r-- 1 root root    0 Jun  6 21:25 5-firstlines~
+-rwxr--r-- 1 root root   40 Jun  6 21:35 6-third_line
+-rw-r--r-- 1 root root   27 Jun  6 21:31 6-third_line~
+-rwxr--r-- 1 root root   78 Jun  6 22:07 7-file
+-rw-r--r-- 1 root root   74 Jun  6 21:43 7-file~
+-rw-r--r-- 1 root root    0 Jun  6 22:15 ls_cwd_content
+-rw-r--r-- 1 root root    0 Jun  6 21:26 master
+-rw-r--r-- 1 root root   35 Jun  6 20:49 README.md
+-rw-r--r-- 1 root root    0 Jun  6 20:49 README.md~
