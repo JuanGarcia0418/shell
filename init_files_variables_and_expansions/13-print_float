@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "%f" $NUM
+printf "%f" $NUM
