@@ -1,0 +1,7 @@
+#/usr/bin/env bash
+#current directory list
+
+for file in *
+do
+    echo "$file" | cut -d'-' -f2
+done
