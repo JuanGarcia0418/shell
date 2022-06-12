@@ -1,9 +1,7 @@
 #!/usr/bin/env bash
 #i have loops with while
 
-num=10
-
-while
+while (( c=1; c<=10; c++ ))
 do
   echo "Best School"
   
