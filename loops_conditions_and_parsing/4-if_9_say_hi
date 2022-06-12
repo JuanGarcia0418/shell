@@ -2,7 +2,7 @@
 # displays Holberton School 10 times and other word
 
 WORD=0
-while [ $WORD -lt 11 ]
+while [ $WORD -lt 11 ];
 do
     if [ $WORD = 9 ]
     then
