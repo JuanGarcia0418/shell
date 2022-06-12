@@ -1,18 +1,18 @@
-#!/usr/bin/bash
-#view content the file school
+#!/usr/bin/env bash
+#view content this file
 
 PHRASE="school"
 
 if [ -e "$PHRASE" ]
 then
-    echo "school file exists"
+    echo "holbertonschool file exists"
     if [ ! -s "$PHRASE" ]
     then
         echo "school file is empty"
     else
         echo "school file is not empty"
     fi
-    if [ -f "$PHRASE" ]
+    if [ -f "$FILE" ]
     then
         echo "school is a regular file"
     fi
