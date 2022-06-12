@@ -4,14 +4,14 @@
 PHRASE=1
 while [ $PHRASE -lt 11 ]
 do
-	if [ $PHRASE = 4 ]
-	then
-	echo "bad luck"
-elif [ $PHRASE = 8 ]
-then
-echo "good luck"
-else
-    echo "Best School"
-	fi
-	((PHRASE=+1))
+    if [ $PHRASE = 4 ]
+    then
+        echo "bad luck"
+    elif [ $PHRASE = 8 ]
+    then
+        echo "good luck"
+    else
+        echo "Holberton School"
+    fi
+    ((PHRASE+=1))
 done
