@@ -5,5 +5,5 @@ phrase=0
 while [ $phrase -lt 10 ];
 do
     echo "Best School"
-    let expr phrase=phrase+1
+    _=$((phrase=phrase+1))
 done
