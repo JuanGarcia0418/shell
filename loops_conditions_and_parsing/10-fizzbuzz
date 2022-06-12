@@ -16,5 +16,5 @@ do
     else
         echo "$NUMBER"
     fi
-    ((COUNTER+=1))
+    ((NUMBER+=1))
 done
