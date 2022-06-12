@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+#print message in lines
+
+PHRASE=1
+while [ $PHRASE -le 20 ]
+do
+echo $PHRASE
+(( PHRASE++ ))
+   case "$PHRASE" in
+   "5") echo "bad luck from China"
+   ;;
+   "10") echo "bad luck from Japan"
+   ;;
+   "18") echo "bad luck from Italy"
+   ;;
+   esac
+done
