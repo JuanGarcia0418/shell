@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+#i have loops with while
+
+num=10
+
+while
+do
+  echo "Best School"
+  
+done
