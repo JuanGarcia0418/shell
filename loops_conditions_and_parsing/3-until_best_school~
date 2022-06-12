@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+#i have create loop with until code
+
+PHRASE=10
+until [ $PHRASE -lt 1 ]
+do
+    echo "Best School"
+    let PHRASE-=1
+done
