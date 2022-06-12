@@ -1,8 +1,9 @@
 #!/usr/bin/env bash
 #i have loops with while
 
-while (( c=1; c<=10; c++ ))
+phrase=0
+while [ $phrase -lt 10 ];
 do
   echo "Best School"
-  
+  let phrase=phrase+1
 done
