@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+#print phrase in operation
+
+NUMBER=1
+while [ $NUMBER -lt 101 ]
+do
+    if [ $((NUMBER%15)) = 0 ]
+    then
+        echo "FizzBuzz"
+    elif [ $((NUMBER%3)) = 0 ]
+    then
+        echo "Fizz"
+    elif [ $((NUMBER%5)) = 0 ]
+    then
+        echo "Buzz"
+    else
+        echo "$NUMBER"
+    fi
+    ((COUNTER+=1))
+done
