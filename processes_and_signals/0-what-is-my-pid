@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#print my own pid
+
+echo $$
