@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+#print pids with bash
+# shellcheck disable=SC2009
+
+ps -faux | grep "4404"
