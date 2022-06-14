@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 #Display process
 
-ps -aux
+ps -faux
